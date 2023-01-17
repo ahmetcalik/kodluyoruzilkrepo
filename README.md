@@ -27,4 +27,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
 
-![Kodluyoruz Gorsel](https://w7.pngwing.com/pngs/551/946/png-transparent-computer-icons-web-development-software-developer-software-development-icon-design-others-angle-text-logo.png)
+![Kodluyoruz Gorsel](https://i.hizliresim.com/9q4jyfb.jpeg)
+
+***www.patika.dev***
